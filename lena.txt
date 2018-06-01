@@ -1,3 +1,12 @@
+<<<<<<< HEAD
 first edit
 
 Jones edit
+lena edit
+||||||| merged common ancestors
+first edit
+=======
+first edit
+
+lena edit
+>>>>>>> lena_branch
